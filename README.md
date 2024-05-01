@@ -1,1 +1,3 @@
-Hey! I’m Philipp and I’m a front-end developer and open source contributor who’s currently living in the Netherlands.
+Hey! I’m Philipp and I’m a front-end developer and open source contributor living in Hamburg, Germany.
+
+Go to to my [website](https://kleinfreund.de)!
