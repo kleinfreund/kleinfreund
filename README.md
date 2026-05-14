@@ -1,3 +1,3 @@
-Hey! I’m Philipp and I’m a front-end developer and open source contributor living in Leipzig, Germany.
+I’ve moved to [codeberg.org/kleinfreund](https://codeberg.org/kleinfreund). If you’re looking for one of my projects, you can find it there.
 
-Go to to my [website](https://kleinfreund.de)!
+You can also contact me via my [website](https://kleinfreund.de).
